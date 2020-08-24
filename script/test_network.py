@@ -4,6 +4,7 @@ from appium import webdriver
 from base.base_driver import init_driver
 from page.network_page import NetWork
 
+
 class TestNetWork():
 
     def setup(self):
