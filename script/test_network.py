@@ -40,15 +40,16 @@ class TestNetWork():
         # WebDriverWait(driver, 10, 1).until(lambda x:x.find_element_by_xpath("//*[contains(@text, '保持WLAN')]")).click()
         # WebDriverWait(driver, 10, 1).until(lambda x:x.find_element_by_xpath("//*[contains(@text, '始终')]")).click()
 
-    def test_commit(self):
+    def test_commit1(self):
         pass
-    def test_commit(self):
+    def test_commit2(self):
         pass
-    def test_commit(self):
+    def test_commit3(self):
         pass
 	def test_commit_4(self):
         pass
-
+	def test_commit_5(self):
+        pass
 
 
 
