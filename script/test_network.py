@@ -50,6 +50,8 @@ class TestNetWork():
         pass
 	def test_commit_5(self):
         pass
+	def test_commit_6(self):
+        pass
 
 
 
