@@ -65,7 +65,8 @@ class NetWork(BaseAction):
 
 	def test_test(self):
 		pass
-
+	def test_test2(self):
+		pass
 
 
 
