@@ -63,7 +63,8 @@ class NetWork(BaseAction):
         # self.my_element(self.WLAN_always_button).click()
         self.click(self.WLAN_always_button)
 
-
+	def test_test(self):
+		pass
 
 
 
